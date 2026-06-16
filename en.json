@@ -1,0 +1,20 @@
+{
+  "agency_name": "Переклад від LOLIK",
+  "owner_label": "Owner:",
+  "owner_name": "Valeriia Arterchuk",
+  "about_title": "About us",
+  "about_text": "We provide professional translation services for the global market.",
+  "industries_title": "Translation Industries",
+  "ind_business": "Business and Finance",
+  "ind_edu": "Education and E-Learning",
+  "ind_tech": "Technology and IT",
+  "rates_title": "Our Pricing",
+  "rate_standard": "Standard — $0.05/word",
+  "rate_pro": "Expert — $0.08/word",
+  "lang_pair_title": "Select language pair:",
+  "pair_1": "Ukrainian - English",
+  "pair_2": "Ukrainian - German",
+  "pair_3": "Ukrainian - Polish",
+  "btn_order": "Order a project",
+  "btn_lang": "Change Language / Змінити мову"
+}
